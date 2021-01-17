@@ -30,10 +30,10 @@ npm start
 Esse projeto foi desenvolvido para dispositivos mobile. Para uma melhor visualização, rode com telas de 377 x 820.
 
 ### `Time 106:`
-Bruna Franciele - Desenvolvedora
-Júlia Pôrto - Desenvolvedora
-Luiza Yassuda - UX / Designer
-Felipe Spina - Business
+Bruna Franciele - Desenvolvedora<br/>
+Júlia Pôrto - Desenvolvedora<br/>
+Luiza Yassuda - UX / Designer<br/>
+Felipe Spina - Business<br/>
 
 ### `HACKATHON CCR - NOVOS CAMINHOS PARA A JUVENTUDE`
 
