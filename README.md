@@ -7,7 +7,7 @@ amigável para um ambiente de gamificação, buscando conectar jovens entre 14 e
 Em nossa plataforma, o jovem terá oportunidade de interagir com conteúdos para capacitação de Soft e Hard Skills, acumulando pontuação conforme avança nos cursos.
 Essa pontuação será usada para que as empresas parceiras em busca de jovens aprendizes encontrem usuários qualificados e que tenham Fit com a empresa.
 
-Acesse o site aqui: https://app-tmj.herokuapp.com/cadastro-empresas
+Acesse o site aqui: https://app-tmj.herokuapp.com/
 
 ### `Ferramentas`
 
