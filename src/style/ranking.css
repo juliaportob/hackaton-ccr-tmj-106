@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+.name-student {
+  font-weight: bolder;
+}
+
+.div-student {
+  display: flex;
+  flex-direction: row;
+  background-color: #ff3dec;
+  align-items: center;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  width: 90%;
+  margin-left: 3%;
+  margin-right: 7%;
+  padding-right: 2%;
+  padding-left: 2%;
+  box-shadow: 0px 4px 6px rgb(109, 108, 108);
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.text-student {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.avatar-ranking {
+  width: 120px;
+  border-radius: 50%;
+  border: 7px solid #cefaef;
+  box-shadow: 0px 4px 4px rgb(204, 204, 204);
+  margin-bottom: 3%;
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+.body-menu-ranking {
+  display: flex;
+  justify-content: space-between;
+  background-color: #9066f2;
+  height: 7vh;
+}
+
+.ranking-title {
+  text-align: center;
+  font-family: "Red Hat Display", sans-serif;
+}

@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+.body-settings {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.title-settings {
+  text-align: center;
+  margin-top: 15%;
+}
+
+.btn-change-data {
+  width: 90%;
+  font-size: 1.2em;
+  line-height: 250%;
+  border-radius: 60px;
+  margin-bottom: 10%;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  background-color: #ff3dec;
+  border: none;
+  margin-top: 15%;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.btn-change-settings {
+  width: 90%;
+  font-size: 1.2em;
+  line-height: 250%;
+  border-radius: 60px;
+  margin-bottom: 10%;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  background-color: #00ffc2;
+  border: none;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.btn-help-center {
+  width: 90%;
+  font-size: 1.2em;
+  line-height: 250%;
+  border-radius: 60px;
+  margin-bottom: 10%;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  background-color: #f85915;
+  border: none;
+  font-family: "Red Hat Display", sans-serif;
+}

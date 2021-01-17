@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+.profile-icon {
+  margin-top: -26%;
+  padding-top: 30;
+  border-top: -10%;
+}
+
+.divs-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-title {
+  font-family: "Red Hat Display", sans-serif;
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.button-logout {
+  font-family: "Red Hat Display", sans-serif;
+  width: 90%;
+  font-size: 1.2em;
+  line-height: 100%;
+  border-radius: 15px;
+  margin-bottom: 5%;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  background-color: #9164f2;
+  border: none;
+}

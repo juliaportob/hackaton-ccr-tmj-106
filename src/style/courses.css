@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+.courses-body {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.videos-div {
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 10%;
+  box-shadow: 0px 0px 15px rgb(160, 160, 160);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.video {
+  max-width: 100%;
+}
+
+.buttons-couse {
+  margin-top: 7%;
+  margin-bottom: 5%;
+}
+
+.btn-course {
+  font-size: 1.2em;
+  border-radius: 60px;
+  background-color: #00FFC2;
+  border: none;
+}
+
+.courses-title {
+  text-align: center;
+}
+
+.more-score {
+   text-shadow: 0px 0px 10px rgb(255,61,236,1);
+   font-size: 1.1em;
+   font-weight: bold;
+}

@@ -1,0 +1,19 @@
+.body-menu {
+  display: flex;
+  justify-content: space-between;
+  background-color: #9066F2;
+  height: 7vh;
+}
+
+.menu-image {
+  width: 10%;
+  padding-left: 3%;
+  padding-top: 5%;
+}
+
+.avatar-menu {
+  width: 50px;
+  border-radius: 80%;
+  padding-right: 3%;
+  margin: 1%;
+}

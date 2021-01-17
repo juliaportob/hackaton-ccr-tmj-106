@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
+
+.input-login {
+  width: 90%;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  font-size: 1.2em;
+  line-height: 250%;
+  border-radius: 60px;
+  text-align: center;
+  margin-bottom: 8%;
+  color: #F85915;
+  border: none;
+}
+
+::placeholder {
+  color: black;
+}
+
+.title-login {
+  color: white;
+  text-align: center;
+}
+
+.title-video {
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.img-logo {
+  width: 200px;
+  margin-top: -10%;
+  margin-bottom: 8%;
+  padding-left: 18%;
+}
+
+.body-login {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin: 0;
+  background-image: url(../images/background.png);
+  background-size: 100%;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+.access-login {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 0;
+}
+
+.button-login {
+  width: 45%;
+  font-size: 1.2em;
+  line-height: 250%;
+  border-radius: 60px;
+  margin-bottom: 8%;
+  background-color: #00FFC2;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.button-company {
+  width: 90%;
+
+  font-size: 1.2em;
+  line-height: 250%;
+  border-radius: 60px;
+  margin-bottom: 5%;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  background-color: #FF3DEC;
+  border: none;
+}

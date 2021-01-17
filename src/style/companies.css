@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+.body-companies {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.title-companies {
+  text-align: center;
+}
+
+.btn-partner {
+  width: 90%;
+  font-size: 1.2em;
+  line-height: 250%;
+  border-radius: 60px;
+  margin-bottom: 10%;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  background-color: #00ffc2;
+  border: none;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.btn-register {
+  width: 90%;
+  font-size: 1.2em;
+  line-height: 250%;
+  border-radius: 60px;
+  margin-bottom: 5%;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  background-color: #9164f2;
+  border: none;
+  font-family: "Red Hat Display", sans-serif;
+}

@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+.image-selec-process {
+  width: 50%;
+}
+
+.body-selec-process {
+  font-family: "Red Hat Display", sans-serif;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.divs-selec-process {
+  margin-top: 15%;
+  width: 90%;
+  box-shadow: 4px 4px 4px rgb(204, 204, 204);
+}
+
+.info-selec-process {
+  color: #9164f2;
+  font-weight: bold;
+}
+
+.title-selec-process {
+  margin-bottom: 0;
+}
+
+.subtitle-selec-process {
+  margin-top: 15%;
+  margin-bottom: 0;
+  width: 90%;
+  text-align: center;
+}

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+.avatar {
+  width: 120px;
+  border-radius: 50%;
+  border: 7px solid #cefaef;
+  box-shadow: 0px 4px 4px rgb(204, 204, 204);
+  margin-bottom: 5%;
+}
+
+.body-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.paragraph {
+  margin-top: -10%;
+  font-size: 1.2em;
+}
+
+.user-name {
+  margin-top: 5%;
+}
+
+.abilities {
+  margin-top: -5%;
+}
+
+.timeline {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
